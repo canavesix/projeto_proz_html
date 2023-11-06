@@ -47,8 +47,10 @@ main div p {
     font-weight: 700;
 }
 
-main div img {
-    margin: 15px 50px 15px 500px;
+main .teste {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 footer {
